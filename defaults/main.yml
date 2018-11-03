@@ -8,4 +8,4 @@ ansible_install_method: package
 ansible_install_version_pip: ''
 
 # Used only if ansible_install_method is 'pip'
-ansible_install_package: ansible
+ansible_install_pip_package: ansible
